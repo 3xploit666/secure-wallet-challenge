@@ -78,8 +78,8 @@ Todo lo del Level 1, mas:
 
 ## Write-up
 
-El analisis tecnico completo esta disponible en el blog:
-[SecureWallet Challenge: Del One-Liner al Hardcore](https://www.3xploitdev.com/blog/secure-wallet-challenge)
+El analisis tecnico completo estara disponible pronto en el blog:
+**Probando cosas nuevas en seguridad defensiva. Stay tuned.**
 
 ---
 
